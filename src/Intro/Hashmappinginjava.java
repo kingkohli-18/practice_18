@@ -30,7 +30,7 @@ public class Hashmappinginjava {
 		if(hm.get(count)>1)
 
 	System.out.println(count);  //displaying repeated elements 
-		
+		System.out.println("hiiii")
 		//Write a program to find the first non-repeated character in a string using a HashMap
 }
 	
